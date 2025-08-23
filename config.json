@@ -23,10 +23,6 @@
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
@@ -51,6 +47,10 @@
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
+    },
+    "zuid": {
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "最大资源"
     },
     "wujin": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
